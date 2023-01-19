@@ -1,0 +1,24 @@
+/* header {
+    color: black !important;
+    background-color: rgb(137, 211, 253) !important;
+    width: 100% !important;
+    padding: 1px !important;
+}
+.header {
+    background-color: rgb(252, 223, 128);
+    width: 100%;
+    padding: 1px;
+}
+#header {
+    background-color: rgb(202, 149, 218);
+    width: 100%;
+    padding: 1px;
+} */
+
+.text-gray {
+  color: #6c81ad;
+}
+
+.text-pink {
+  color: rgb(179, 97, 109);
+}
